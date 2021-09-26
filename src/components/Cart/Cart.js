@@ -2,7 +2,8 @@ import React from 'react';
 import AddedName from '../AddedName/AddedName';
 import './Cart.css';
 const Cart = (props) => {
-    console.log(props);
+    // console.log(props);
+
     //destructuring
     const { cart } = props;
     let totalQuantity = 0;
