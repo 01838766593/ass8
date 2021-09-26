@@ -1,0 +1,45 @@
+.product{
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:20px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    height:490px;
+    border:2px solid rgba(148, 148, 9, 0.932)
+}
+.product:hover{
+    box-shadow: 0 0 11px rgb(107, 107, 107);
+    transform: scale(1.01);
+}
+.cow-name{
+    background-color:goldenrod;
+    font-weight: bolder;
+}
+.imgStyle{
+    margin-top: 10px;
+    height:150px;
+    width:150px;
+    border-radius: 10%;
+    border: 1px solid gray;
+}
+.btn-regular{
+    background-color: goldenrod;
+    height:35px;
+    width:150px;
+    border: 1px solid lightgray;
+    border-radius:5px;
+    cursor:pointer;
+    margin-bottom: 5px;
+
+}
+.iconStyle{
+    cursor:pointer;
+    padding-top:5px;
+    font-size: 30px;
+    color:gray;
+}
+.text-style{
+    font-weight: 500;
+}

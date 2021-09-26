@@ -1,0 +1,19 @@
+.cartstyle{
+    background-color: beige;
+    width:250px;
+    margin: auto;
+    border-radius: 5px;
+    border:2px solid rgba(148, 148, 9, 0.932)
+}
+.addedDetail{
+    background-color: goldenrod;
+    padding-bottom: 5px;
+    padding-top: 3px;
+    border: 2px solid white;
+}
+
+.text-style{
+    border-bottom: 2px solid #161616;
+    width: 75%;
+    margin: auto;
+}
