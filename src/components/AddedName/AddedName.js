@@ -3,10 +3,8 @@ import './AddedName.css';
 const AddedName = (props) => {
     //destructuring
     const { id, name } = props.product;
-    console.log(id, name);
-
     return (
-        <div class="font-size">
+        <div className="font-size">
             <h3>ID: {id}, Name: {name}</h3>
         </div>
     );
