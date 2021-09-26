@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##This project name is "Excusive Cow-Bull Bazar"
+## This project name is "Excusive Cow-Bull Bazar"
 
 Assignment Netlify Live Link (https://assignment-8-sayem-mahmud.netlify.app/).
 
